@@ -1,0 +1,104 @@
+,IndicatorName,IndicatorCode
+0,"Bird species, threatened",EN.BIR.THRD.NO
+1,Business extent of disclosure index (0=less disclosure to 10=more disclosure),IC.BUS.DISC.XQ
+2,Cost of business start-up procedures (% of GNI per capita),IC.REG.COST.PC.ZS
+3,Depth of credit information index (0=low to 8=high),IC.CRD.INFO.XQ
+4,Distance to frontier score (0=lowest performance to 100=frontier),IC.BUS.DFRN.XQ
+5,Ease of doing business index (1=most business-friendly regulations),IC.BUS.EASE.XQ
+6,"Fish species, threatened",EN.FSH.THRD.NO
+7,Improved sanitation facilities (% of population with access),SH.STA.ACSN
+8,"Improved sanitation facilities, rural (% of rural population with access)",SH.STA.ACSN.RU
+9,"Improved sanitation facilities, urban (% of urban population with access)",SH.STA.ACSN.UR
+10,Improved water source (% of population with access),SH.H2O.SAFE.ZS
+11,"Improved water source, rural (% of rural population with access)",SH.H2O.SAFE.RU.ZS
+12,"Improved water source, urban (% of urban population with access)",SH.H2O.SAFE.UR.ZS
+13,Labor tax and contributions (% of commercial profits),IC.TAX.LABR.CP.ZS
+14,Lifetime risk of maternal death (%),SH.MMR.RISK.ZS
+15,Lifetime risk of maternal death (1 in: rate varies by country),SH.MMR.RISK
+16,"Mammal species, threatened",EN.MAM.THRD.NO
+17,"Maternal mortality ratio (modeled estimate, per 100,000 live births)",SH.STA.MMRT
+18,"Mortality rate, infant (per 1,000 live births)",SP.DYN.IMRT.IN
+19,"Mortality rate, infant, female (per 1,000 live births)",SP.DYN.IMRT.FE.IN
+20,"Mortality rate, infant, male (per 1,000 live births)",SP.DYN.IMRT.MA.IN
+21,"Mortality rate, neonatal (per 1,000 live births)",SH.DYN.NMRT
+22,"Mortality rate, under-5 (per 1,000)",SH.DYN.MORT
+23,"Mortality rate, under-5, female (per 1,000 live births)",SH.DYN.MORT.FE
+24,"Mortality rate, under-5, male (per 1,000 live births)",SH.DYN.MORT.MA
+25,Number of maternal deaths,SH.MMR.DTHS
+26,Other taxes payable by businesses (% of commercial profits),IC.TAX.OTHR.CP.ZS
+27,"Plant species (higher), threatened",EN.HPT.THRD.NO
+28,Private credit bureau coverage (% of adults),IC.CRD.PRVT.ZS
+29,Procedures to build a warehouse (number),IC.WRH.PROC
+30,Procedures to register property (number),IC.PRP.PROC
+31,Profit tax (% of commercial profits),IC.TAX.PRFT.CP.ZS
+32,Proportion of seats held by women in national parliaments (%),SG.GEN.PARL.ZS
+33,Public credit registry coverage (% of adults),IC.CRD.PUBL.ZS
+34,Start-up procedures to register a business (number),IC.REG.PROC
+35,Strength of legal rights index (0=weak to 12=strong),IC.LGL.CRED.XQ
+36,Tax payments (number),IC.TAX.PAYM
+37,Time required to build a warehouse (days),IC.WRH.DURS
+38,Time required to enforce a contract (days),IC.LGL.DURS
+39,Time required to get electricity (days),IC.ELC.TIME
+40,Time required to register property (days),IC.PRP.DURS
+41,Time required to start a business (days),IC.REG.DURS
+42,Time to prepare and pay taxes (hours),IC.TAX.DURS
+43,Time to resolve insolvency (years),IC.ISV.DURS
+44,Total tax rate (% of commercial profits),IC.TAX.TOTL.CP.ZS
+45,Methodology assessment of statistical capacity (scale 0 - 100),IQ.SCI.MTHD
+46,Overall level of statistical capacity (scale 0 - 100),IQ.SCI.OVRL
+47,Periodicity and timeliness assessment of statistical capacity (scale 0 - 100),IQ.SCI.PRDC
+48,Source data assessment of statistical capacity (scale 0 - 100),IQ.SCI.SRCE
+49,Bank capital to assets ratio (%),FB.BNK.CAPA.ZS
+50,Bank nonperforming loans to total gross loans (%),FB.AST.NPER.ZS
+51,"Disbursements on external debt, long-term (DIS, current US$)",DT.DIS.DLXF.CD
+52,"Interest payments on external debt, long-term (INT, current US$)",DT.INT.DLXF.CD
+53,"Interest payments on external debt, private nonguaranteed (PNG) (INT, current US$)",DT.INT.DPNG.CD
+54,Number of infant deaths,SH.DTH.IMRT
+55,Number of neonatal deaths,SH.DTH.NMRT
+56,Number of under-five deaths,SH.DTH.MORT
+57,"PPG, bilateral (AMT, current US$)",DT.AMT.BLAT.CD
+58,"PPG, bilateral (DIS, current US$)",DT.DIS.BLAT.CD
+59,"PPG, bilateral (INT, current US$)",DT.INT.BLAT.CD
+60,"PPG, bonds (AMT, current US$)",DT.AMT.PBND.CD
+61,"PPG, bonds (INT, current US$)",DT.INT.PBND.CD
+62,"PPG, commercial banks (AMT, current US$)",DT.AMT.PCBK.CD
+63,"PPG, commercial banks (DIS, current US$)",DT.DIS.PCBK.CD
+64,"PPG, commercial banks (INT, current US$)",DT.INT.PCBK.CD
+65,"PPG, multilateral (AMT, current US$)",DT.AMT.MLAT.CD
+66,"PPG, multilateral (DIS, current US$)",DT.DIS.MLAT.CD
+67,"PPG, multilateral (INT, current US$)",DT.INT.MLAT.CD
+68,"PPG, official creditors (AMT, current US$)",DT.AMT.OFFT.CD
+69,"PPG, official creditors (DIS, current US$)",DT.DIS.OFFT.CD
+70,"PPG, official creditors (INT, current US$)",DT.INT.OFFT.CD
+71,"PPG, other private creditors (AMT, current US$)",DT.AMT.PROP.CD
+72,"PPG, other private creditors (DIS, current US$)",DT.DIS.PROP.CD
+73,"PPG, other private creditors (INT, current US$)",DT.INT.PROP.CD
+74,"PPG, private creditors (AMT, current US$)",DT.AMT.PRVT.CD
+75,"PPG, private creditors (DIS, current US$)",DT.DIS.PRVT.CD
+76,"PPG, private creditors (INT, current US$)",DT.INT.PRVT.CD
+77,"Principal repayments on external debt, long-term (AMT, current US$)",DT.AMT.DLXF.CD
+78,"Principal repayments on external debt, private nonguaranteed (PNG) (AMT, current US$)",DT.AMT.DPNG.CD
+79,Average time to clear exports through customs (days),IC.CUS.DURS.EX
+80,Delay in obtaining an electrical connection (days),IC.ELC.DURS
+81,Firms competing against unregistered firms (% of firms),IC.FRM.CMPU.ZS
+82,Firms expected to give gifts in meetings with tax officials (% of firms),IC.TAX.GIFT.ZS
+83,Firms formally registered when operations started (% of firms),IC.FRM.FREG.ZS
+84,Firms offering formal training (% of firms),IC.FRM.TRNG.ZS
+85,Firms using banks to finance investment (% of firms),IC.FRM.BNKS.ZS
+86,Firms with female participation in ownership (% of firms),IC.FRM.FEMO.ZS
+87,Firms with female top manager (% of firms),IC.FRM.FEMM.ZS
+88,Informal payments to public officials (% of firms),IC.FRM.CORR.ZS
+89,Internationally-recognized quality certification (% of firms),IC.FRM.ISOC.ZS
+90,"Losses due to theft, robbery, vandalism, and arson (% sales)",IC.FRM.CRIM.ZS
+91,Number of visits or required meetings with tax officials,IC.TAX.METG
+92,Power outages in firms in a typical month (number),IC.ELC.OUTG
+93,Time required to obtain an operating license (days),IC.FRM.DURS
+94,Time spent dealing with the requirements of government regulations (% of senior management time),IC.GOV.DURS.ZS
+95,Value lost due to electrical outages (% of sales),IC.FRM.OUTG.ZS
+96,Poverty gap at national poverty lines (%),SI.POV.NAGP
+97,Poverty headcount ratio at national poverty lines (% of population),SI.POV.NAHC
+98,Rural poverty gap at national poverty lines (%),SI.POV.RUGP
+99,Rural poverty headcount ratio at national poverty lines (% of rural population),SI.POV.RUHC
+100,Urban poverty gap at national poverty lines (%),SI.POV.URGP
+101,Urban poverty headcount ratio at national poverty lines (% of urban population),SI.POV.URHC
+102,Female headed households (% of households with a female head),SP.HOU.FEMA.ZS
